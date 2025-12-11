@@ -1,4 +1,8 @@
-<h1 align="center">⚔️ warvvsec</h1>
+<p align="center">
+  <img src="https://i.imgur.com/SFukCG4.gif" width="100%" />
+</p>
+
+<h1 align="center">warvvsec</h1>
 <p align="center">
   <strong>Cybersecurity Researcher • Red Team • Pentesting</strong><br>
   Exploring offensive security, building custom tools, and releasing projects gradually.
@@ -8,18 +12,25 @@
 
 ### 🔍 Find me!
 <p>
-  <a href="https://github.com/warvvsec"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/warvvsec"><img src="https://img.shields.io/badge/TryHackMe-warvvsec-blue?style=for-the-badge&logo=tryhackme"/></a>
+  <a href="https://github.com/warvvsec">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://app.hackthebox.com/users/2131784">
+    <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9fef00"/>
+  </a>
+
+  <a href="https://tryhackme.com/p/warvvsec">
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ### 🧠 HackTheBox Progress
 <p align="center">
-  <a href="https://app.hackthebox.com/profile/warvvsec">
-    <img src="https://www.hackthebox.com/badge/warvvsec" alt="HackTheBox Badge"/>
+  <a href="https://app.hackthebox.com/users/2131784">
+    <img src="https://www.hackthebox.com/badge/2131784" alt="HackTheBox Badge">
   </a>
 </p>
 
@@ -40,5 +51,3 @@
 
 ### 📌 Notes
 Projects will appear gradually as I work on offensive security tools & experiments.
-
-<p align="center">⚔️ Stay sharp.</p>
