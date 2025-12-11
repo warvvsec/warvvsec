@@ -27,15 +27,6 @@
 
 ---
 
-### 🧠 HackTheBox Progress
-<p align="center">
-  <a href="https://app.hackthebox.com/users/2131784">
-    <img src="https://www.hackthebox.com/badge/2131784" alt="HackTheBox Badge">
-  </a>
-</p>
-
----
-
 ### 🛠 Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
